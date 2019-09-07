@@ -7,6 +7,7 @@ import android.preference.PreferenceManager
 import kotlinx.android.synthetic.main.activity_main.*
 import androidx.core.content.edit
 
+
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
